@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-<img align="left" alt="codeSTACKr.com" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="https://adhikram.github.io/" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="https://www.instagram.com/adhikram_maitra" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="https://www.linkedin.com/in/adhikram-maitra/" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
 
@@ -43,6 +43,6 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Adhikram&show_icons=true&hide_border=true" />
 
-[website]: 
-[instagram]: https://www.instagram.com/adhikram_maitra
-[linkedin]: https://www.linkedin.com/in/adhikram-maitra/
+[website]: https://adhikram.github.io/
+[instagram]: 
+[linkedin]: 
