@@ -28,13 +28,11 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 <img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/next.png?raw=true" height="60" width="60">
 <img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/css.png?raw=true" height="60" width="60">
 <img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/html.png?raw=true" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/django.jpg?raw=true" height="60" width="60">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
 
 <br>
 
 <img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/react.png?raw=true" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/php.png?raw=true" height="60" width="60">
 <img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/sql.png?raw=true" height="60" width="60">
 <img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/postgres.png?raw=true" height="60" width="60">
 <img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/git.png?raw=true" height="60" width="60">
