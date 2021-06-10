@@ -6,7 +6,7 @@
 A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, Competitive Programing 🚀 ,Innovation :robot: 
 
 
-![age](https://img.shields.io/badge/-22-brightgreen)
+![age](https://img.shields.io/badge/Age-22-brightgreen)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 
 
