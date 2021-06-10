@@ -2,7 +2,7 @@
 
 <h1 align="center"> नमस्ते (Namaste), I'm Adhikram Maitra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I'm a Software and Web Developer from India ❤</h3>
+<h3 align="center">I'm a Competitive Coder and Web Developer from India ❤</h3>
   
 A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, Competitive Programing 🚀 ,Innovation :robot:
 
@@ -11,9 +11,8 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning NodeJs, Python and ReactJs
+- 🌱 I’m currently learning NodeJs, Python and ReactJs amd Ruby 
 - 👯 I’m currently collaborating on Ruby and Python backend projects
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/_the.odist_)
 - ⚡ Fun fact: Jack of all trades , Master of None !
   <br />
 
