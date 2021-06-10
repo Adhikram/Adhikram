@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a Competitive Coder and Web Developer from India ❤</h3>
   
-A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, Competitive Programing 🚀 ,Innovation :robot:
+A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about DSA  & Full-Stack Web Development.:bar_chart: Strong Advocate for 📜 open source, Competitive Programing 🚀 ,Innovation :robot:
 
 ![age](https://img.shields.io/badge/Age-22-brightgreen)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
