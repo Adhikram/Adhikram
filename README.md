@@ -47,13 +47,11 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 <br >
 
 ## 🏆 Github Status
-
-<img  src="https://github-readme-stats.vercel.app/api?username=Adhikram&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Adhikram&theme=dark" width="45%" >
-
-<br>
-
+<p align="left">
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhikram&theme=synthwave">
+<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Adhikram&theme=synthwave">
+</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=Adhikram&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
 <div align="center">
 
 
