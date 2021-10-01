@@ -45,7 +45,6 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about DSA 
 <img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/python.png?raw=true" height="60" width="60">
 <img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/JS.png?raw=true" height="60" width="60">
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/next.png?raw=true" height="60" width="60">
 <img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/css.png?raw=true" height="60" width="60">
 <img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/html.png?raw=true" height="60" width="60">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
