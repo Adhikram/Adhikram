@@ -1,13 +1,17 @@
+
 ![](https://github.com/Adhikram/Adhikram-/blob/master/media/footer.png)
 
 <h1 align="center"> नमस्ते (Namaste), I'm Adhikram Maitra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I'm a Competitive Coder and Web Developer from India ❤</h3>
+# 💫 About Me:
+<h3 align="center">I'm a Data Application Developer and Backend Engineer from India 🚀</h3>
   
-A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about DSA  & Full-Stack Web Development.:bar_chart: Strong Advocate for 📜 open source, Competitive Programing 🚀 ,Innovation :robot:
+A 24-year-old software🌈 and web developer🎯 from India. I'm passionate about data processing and backend development. :bar_chart: Strong advocate for 📜 open source, innovation :robot:, and problem-solving :thinking:
 
-![age](https://img.shields.io/badge/Age-22-brightgreen)
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+![age](https://img.shields.io/badge/Age-24-brightgreen)
+![focus](https://img.shields.io/badge/focus-Data%20Processing%20%26%20Backend%20Development-brightgreen)
+
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -19,61 +23,16 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about DSA 
   <br />
 
 
-  <hr>
-<h2 align="center">Connect with me<img  src="https://i.imgur.com/WkC2Lqe.gif" width="100px"></h2>
-<div align="center" >
-  
-<a href="https://github.com/Adhikram" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/adhikram-maitra" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/adhikram.maitra/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/_wolfcreek/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div> 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Adhikram&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Adhikram&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhikram&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 👨‍💻 Languages and Tools
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Adhikram&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">
-  
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/c++.png?raw=true" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/python.png?raw=true" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/JS.png?raw=true" height="60" width="60">
-<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/html.png?raw=true" height="60" width="60">
-<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
-
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/react.png?raw=true" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/sql.png?raw=true" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/vs.png?raw=true" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
-</div>
-
-<br >
-
-## 🏆 Github Status
-
-<p align="left">
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhikram&theme=synthwave">
-<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Adhikram&theme=synthwave">
-</p>
-<img src="https://activity-graph.herokuapp.com/graph?username=Adhikram&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
-<div align="center">
-
-### Show some ❤️ by starring ⭐ some of the repositories!
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/adhikram-maitra)
-
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://adhikram-maitra-portfolio.netlify.app/)
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
-</div>
