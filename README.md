@@ -1,38 +1,60 @@
-
-![](https://github.com/Adhikram/Adhikram-/blob/master/media/footer.png)
+![Footer](https://github.com/Adhikram/Adhikram-/blob/master/media/footer.png)
 
 <h1 align="center"> नमस्ते (Namaste), I'm Adhikram Maitra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-# 💫 About Me:
-<h3 align="center">I'm a Data Application Developer and Backend Engineer from India 🚀</h3>
-  
-A 24-year-old software🌈 and web developer🎯 from India. I'm passionate about data processing and backend development. :bar_chart: Strong advocate for 📜 open source, innovation :robot:, and problem-solving :thinking:
+# 💡 About Me:
+<h3 align="center">Senior Data Engineer | Backend Architect | Distributed Systems Enthusiast</h3>
 
-![age](https://img.shields.io/badge/Age-24-brightgreen)
-![focus](https://img.shields.io/badge/focus-Data%20Processing%20%26%20Backend%20Development-brightgreen)
+🚀 Passionate about building scalable data platforms and ensuring system reliability. Currently architecting and optimizing data workflows, developing reliability tools, and handling high-scale ETL processes in the media domain.
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+🛠️ Solving complex problems in Data Engineering, Backend Development, and ML data pipelines.
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+🎯 Open-source contributor, automation geek, and an efficiency advocate in engineering.
 
-- Contributing on Ruby and Python backend projects<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
-- Programmer but not a pro in grammar<img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="35" height="35"/>
-- Competitve Coder<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
-- Looking for Opportunities<img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>
+📍 Always experimenting with distributed computing, Spark, Kafka, and cutting-edge data tech.
 
-  <br />
+---
 
+# ⚙️ Tech Stack:
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-EE4C2C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Adhikram&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Adhikram&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhikram&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🔧 Also proficient with MySQL, Redis, AWS, Airflow, and PySpark.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Adhikram&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 🔥 GitHub Activity:
+![Adhikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adhikram&theme=gruvbox&hide_border=true&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhikram&theme=gruvbox&hide_border=true&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=Adhikram&theme=onedark&no-frame=false&margin-w=4)
+
+---
+
+# 🎭 Fun Side Projects:
+- **🛠️ Built a real-time alerting system** for detecting data anomalies in high-throughput pipelines.
+- **🔍 Created a traffic analysis tool** for investigating entity loss hits and A/B testing traffic division.
+- **🤖 Automated Discord rate limit bypassing tool** that’s still running efficiently.
+- **📈 Enhanced debugging for ML engineers** by integrating real-time logs and validations.
+
+---
+
+# ✍️ Dev Quote of the Day:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+---
+
+# 🎯 Looking For:
+🚀 Challenging opportunities in distributed systems, data reliability, and high-scale architecture. Always open to tech discussions, collaborations, and new ideas!
+
+📬 **Reach me at:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhikrammaitra/)
 
